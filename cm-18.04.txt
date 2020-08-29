@@ -1,0 +1,6 @@
+sudo telinit 3  #停止可视化桌面，之后进入一个新的命令行
+
+1.sudo gdb
+2.attatch pid
+
+thread apply all bt
