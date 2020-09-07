@@ -8,6 +8,7 @@ from datetime import datetime
 
 from PIL import Image
 import numpy as np
+from config import get_config
 from mtcnn_pytorch.src.align_trans import get_reference_facial_points, warp_and_crop_face
 
 parser = argparse.ArgumentParser(description='take a picture')
@@ -19,6 +20,7 @@ save_path = data_path/'facebank'/args.name
 if not save_path.exists():
     save_path.mkdir()
 
+conf = get_config(False)
 # 初始化摄像头
 cap = cv2.VideoCapture(0)
 # 我的摄像头默认像素640*480，可以根据摄像头素质调整分辨率
@@ -40,13 +42,21 @@ while cap.isOpened():
                     (0,255,0),
                     3,
                     cv2.LINE_AA)
-                    
         cv2.imshow("My Capture",frame_text)
+        
     # 实现按下“t”键拍照
-    if cv2.waitKey(1)&0xFF == ord('t'):
+    if cv2.waitKey(1):
         p =  Image.fromarray(frame[...,::-1])
         try:
             warped_face = np.array(mtcnn.align(p))[...,::-1]
+            bboxes, faces = mtcnn.align_multi(p, conf.face_limit, conf.min_face_size)
+            print('-----------box count {}', len(bboxes))
+            bboxes = bboxes[:,:-1] #shape:[10,4],only keep 10 highest possibiity faces
+            bboxes = bboxes.astype(int)
+            bboxes = bboxes + [-1,-1,1,1] # personal choice
+            for box in bboxes:
+                frame_text = cv2.rectangle(frame_text,(box[0],box[1]),(box[2],box[3]),(0,0,255),6)
+
             cv2.imwrite(str(save_path/'{}.jpg'.format(str(datetime.now())[:-7].replace(":","-").replace(" ","-"))), warped_face)
         except:
             print('no face captured')

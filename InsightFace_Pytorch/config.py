@@ -16,7 +16,7 @@ def get_config(training = True):
     conf.use_mobilfacenet = True
     conf.net_depth = 50
     conf.drop_ratio = 0.6
-    conf.net_mode = 'ir_se' # or 'ir'
+    conf.net_mode = 'ir_se' # or 'ir' ir_se
     conf.device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     conf.test_transform = trans.Compose([
                     trans.ToTensor(),
