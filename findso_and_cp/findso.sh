@@ -1,15 +1,15 @@
 ###
  # @Author: your name
  # @Date: 2020-08-28 12:11:37
- # @LastEditTime: 2020-09-10 12:52:40
+ # @LastEditTime: 2020-09-11 03:36:02
  # @LastEditors: Please set LastEditors
  # @Description: In User Settings Edit
  # @FilePath: /AiFrameWork/workspace/findso.sh
-### 
+###
 
 so_db_dir=all_db_dir
 so_dest_dir=dest_dir
-so_or_exectuable_path=frame_test
+so_or_exectuable_path=cpp_test
 
 # 首次正常依赖库文件提取(含软连接)
 copy_all_so_2_db(){
@@ -24,7 +24,7 @@ copy_all_so_2_db(){
         if [ -L $line ]
         then
             # echo ${line//\//,} 所有的/替换为,
-            # old_path=${line%$(basename ${line})} #提取原文件的路径，不包含文件名,最后带/; dirname　文件所在目录
+            # old_path=${line%$(basename ${line})} #提取原文件的路径，不包含文件名,最后带/; 也可用dirname　文件所在目录
 
             real_full_name=`readlink -f $line`
             echo $real_full_name
@@ -32,6 +32,12 @@ copy_all_so_2_db(){
             cp $real_full_name $so_db_dir
             echo "cp link $line to $so_db_dir"
             cp -d $line $so_db_dir
+
+            # link_file_name=$so_db_dir/${line##*/} 方法一
+            link_file_name=$so_db_dir/$(basename $line) #方法二
+            real_file_name=$(basename $real_full_name)
+            rm $link_file_name
+            ln -s $real_file_name $link_file_name #重新建立软链接
         else
             cp $line $so_db_dir
         fi
@@ -55,7 +61,7 @@ copy_need_2_dest(){
         do
             num=1
             src_file=$so_db_dir/$line
-            if [ -h $src_file ]
+            if [ -L $src_file ]
             then
                 real_full_name=`readlink -f $src_file`
 
