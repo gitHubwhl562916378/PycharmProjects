@@ -4,3 +4,5 @@ sudo telinit 3  #停止可视化桌面，之后进入一个新的命令行
 2.attatch pid
 
 thread apply all bt
+
+javah -classpath /home/whl/Documents/vscode/new_osmagic/Koala-osmagic-sdk/target/classes -jni com.koala.osmagic.decode.cpp.FFmpegCudaDecode
