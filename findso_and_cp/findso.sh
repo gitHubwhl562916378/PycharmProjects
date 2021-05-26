@@ -39,6 +39,7 @@ copy_all_so_2_db(){
             rm $link_file_name
             ln -s $real_file_name $link_file_name #重新建立软链接
         else
+            echo "cp file $line to $so_db_dir"
             cp $line $so_db_dir
         fi
     done
@@ -51,7 +52,7 @@ copy_need_2_dest(){
     then
         mkdir $so_dest_dir
     fi
-    export LD_LIBRARY_PATH=$so_dest_dir
+    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$so_dest_dir
 
     while :
     do
@@ -70,6 +71,7 @@ copy_need_2_dest(){
                 echo "cp link $src_file to $so_dest_dir"
                 cp -d $src_file $so_dest_dir
             else
+                echo "cp file $src_file to $so_dest_dir"
                 cp $src_file $so_dest_dir
             fi
         done
