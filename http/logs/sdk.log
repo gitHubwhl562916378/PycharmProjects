@@ -1,0 +1,1431 @@
+[2021-08-23 09:16:38.159] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.159] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.170] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.171] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.171] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.171] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.196] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 OffStoreOperation predict use 66.6064
+[2021-08-23 09:16:38.196] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.217] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.218] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.218] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.218] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.219] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.221] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.221] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.221] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.224] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 RoadOccupatedInOperation predict use 25.0142
+[2021-08-23 09:16:38.224] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.248] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 21.1621
+[2021-08-23 09:16:38.248] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.248] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.268] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.270] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.270] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.270] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.273] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 22.2143
+[2021-08-23 09:16:38.274] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.274] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.297] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 21.1108
+[2021-08-23 09:16:38.297] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.297] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.314] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.315] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.315] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.315] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.316] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.317] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.318] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.318] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.369] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.370] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.370] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.370] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.388] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 15.2096
+[2021-08-23 09:16:38.388] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.389] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.405] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.331
+[2021-08-23 09:16:38.405] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.405] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.414] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.415] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.415] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.415] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.417] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.418] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.418] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.418] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.466] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.467] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.468] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.468] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.484] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.3574
+[2021-08-23 09:16:38.485] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.485] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.513] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.513] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.514] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.514] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.515] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.517] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.517] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.517] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.530] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.3758
+[2021-08-23 09:16:38.531] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.531] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.547] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.0019
+[2021-08-23 09:16:38.547] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.547] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.565] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.567] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.567] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.567] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.614] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.615] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.615] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.615] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.616] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.619] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.619] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.619] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.633] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.6652
+[2021-08-23 09:16:38.633] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.633] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.649] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.974
+[2021-08-23 09:16:38.649] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.649] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.668] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.669] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.669] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.669] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.686] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.1293
+[2021-08-23 09:16:38.686] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.686] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.716] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.717] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.717] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.717] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.718] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.720] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.720] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.720] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.734] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.3471
+[2021-08-23 09:16:38.734] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.734] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.750] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.9887
+[2021-08-23 09:16:38.750] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.751] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.771] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.772] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.772] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.772] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.818] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.819] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.820] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.820] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.822] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.823] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.823] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.823] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.837] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.5808
+[2021-08-23 09:16:38.837] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.837] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.854] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.2455
+[2021-08-23 09:16:38.854] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.854] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.872] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.873] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.873] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.873] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.889] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.1648
+[2021-08-23 09:16:38.889] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.890] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.918] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.919] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.919] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.919] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.921] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.923] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.923] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.923] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:38.936] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.4565
+[2021-08-23 09:16:38.937] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.937] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.953] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.9903
+[2021-08-23 09:16:38.953] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:38.953] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:38.968] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:38.969] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:38.969] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:38.969] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.034] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.035] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.035] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.035] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.038] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.039] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.039] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.039] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.053] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.8888
+[2021-08-23 09:16:39.053] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.053] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.071] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.2969
+[2021-08-23 09:16:39.071] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.071] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.108] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.109] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.109] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.109] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.110] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.112] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.112] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.112] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.126] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.2543
+[2021-08-23 09:16:39.126] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.126] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.144] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 OffStoreOperation predict use 15.1925
+[2021-08-23 09:16:39.144] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.158] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.159] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.159] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.159] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.160] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.162] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.162] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.163] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.176] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.3181
+[2021-08-23 09:16:39.176] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.176] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.193] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.9654
+[2021-08-23 09:16:39.193] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.193] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.207] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.208] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.208] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.208] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.209] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.211] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.211] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.211] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.226] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 RoadOccupatedInOperation predict use 15.3202
+[2021-08-23 09:16:39.226] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.257] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.258] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.258] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.258] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.303] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.304] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.305] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.305] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.322] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.4486
+[2021-08-23 09:16:39.322] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.322] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.338] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.921
+[2021-08-23 09:16:39.338] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.338] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.348] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.350] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.351] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.351] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.351] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.354] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.354] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.354] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.356] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 15.1885
+[2021-08-23 09:16:39.356] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.356] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.403] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.404] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.405] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.405] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.421] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.2827
+[2021-08-23 09:16:39.422] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.422] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.438] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.981
+[2021-08-23 09:16:39.438] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.438] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.456] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.457] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.457] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.457] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.458] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.459] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.459] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.459] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.503] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.504] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.504] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.504] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.505] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.506] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.506] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.506] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.523] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.3002
+[2021-08-23 09:16:39.523] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.524] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.540] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.9728
+[2021-08-23 09:16:39.540] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.540] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.551] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.553] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.553] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.553] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.557] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.7226
+[2021-08-23 09:16:39.557] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.557] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.605] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.606] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.606] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.606] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.657] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.658] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.658] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.658] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.659] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.661] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.661] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.661] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.675] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.6525
+[2021-08-23 09:16:39.675] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.676] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.692] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.0347
+[2021-08-23 09:16:39.692] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.693] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.702] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.703] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.703] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.703] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.704] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.705] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.706] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.706] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.748] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.749] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.749] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.749] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.766] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.3136
+[2021-08-23 09:16:39.766] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.766] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.799] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.800] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.800] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.800] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.817] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.2962
+[2021-08-23 09:16:39.817] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.817] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.834] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.1447
+[2021-08-23 09:16:39.834] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.834] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.849] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.850] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.850] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.850] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.851] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.852] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.852] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.853] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.898] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.899] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.899] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.899] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.945] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.947] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.947] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.947] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.948] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.950] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:39.950] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:39.950] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:39.964] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.5218
+[2021-08-23 09:16:39.964] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.964] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.981] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.0767
+[2021-08-23 09:16:39.981] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.981] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.997] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.932
+[2021-08-23 09:16:39.997] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:39.997] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:39.998] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:39.999] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.000] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.000] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.045] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.047] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.047] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.047] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.048] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.049] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.049] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.049] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.063] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.2849
+[2021-08-23 09:16:40.063] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.063] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.097] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.098] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.099] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.099] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.115] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.2773
+[2021-08-23 09:16:40.115] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.115] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.161] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.162] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.162] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.162] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.163] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.165] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.165] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.165] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.181] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 16.6148
+[2021-08-23 09:16:40.181] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.181] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.200] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 OffStoreOperation predict use 17.4678
+[2021-08-23 09:16:40.201] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.213] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.215] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.215] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.216] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.216] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.218] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.218] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.218] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.220] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 17.3818
+[2021-08-23 09:16:40.220] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.220] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.237] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 15.4093
+[2021-08-23 09:16:40.237] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.237] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.256] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 RoadOccupatedInOperation predict use 16.4387
+[2021-08-23 09:16:40.256] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.263] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.265] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.265] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.265] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.282] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 15.3478
+[2021-08-23 09:16:40.282] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.282] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.299] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.300] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.300] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.300] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.303] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.304] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.304] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.304] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.347] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.348] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.348] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.348] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.365] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.6543
+[2021-08-23 09:16:40.365] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.365] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.386] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.387] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.387] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.387] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.403] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.0363
+[2021-08-23 09:16:40.403] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.403] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.419] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.7796
+[2021-08-23 09:16:40.419] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.419] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.429] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.430] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.431] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.431] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.462] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.463] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.463] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.463] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.464] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.465] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.465] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.465] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.479] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.1073
+[2021-08-23 09:16:40.479] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.479] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.528] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.529] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.529] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.530] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.548] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.0525
+[2021-08-23 09:16:40.548] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.548] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.563] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.564] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.564] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.564] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.567] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.568] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.568] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.568] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.581] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.0644
+[2021-08-23 09:16:40.581] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.581] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.619] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.620] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.620] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.620] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.637] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.9076
+[2021-08-23 09:16:40.637] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.637] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.661] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.662] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.663] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.663] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.679] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.9221
+[2021-08-23 09:16:40.679] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.679] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.695] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.5489
+[2021-08-23 09:16:40.695] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.695] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.697] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.699] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.699] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.699] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.701] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.702] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.702] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.702] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.750] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.751] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.751] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.751] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.799] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.800] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.801] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.801] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.818] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.3478
+[2021-08-23 09:16:40.818] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.818] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.834] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.6628
+[2021-08-23 09:16:40.834] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.834] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.850] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.5833
+[2021-08-23 09:16:40.850] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.850] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.850] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.851] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.852] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.852] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.855] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.856] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.856] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.856] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.903] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.903] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.904] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.904] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.921] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.4552
+[2021-08-23 09:16:40.921] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.921] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.937] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.7691
+[2021-08-23 09:16:40.937] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:40.937] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:40.948] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.949] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.949] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.949] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.950] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:40.951] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:40.951] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:40.952] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:40.999] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.000] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.000] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.000] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.047] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.048] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.048] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.049] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.066] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.5831
+[2021-08-23 09:16:41.066] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:41.066] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.082] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 13.6707
+[2021-08-23 09:16:41.082] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:41.082] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.084] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.087] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.087] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.087] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.099] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.3628
+[2021-08-23 09:16:41.099] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:41.099] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.128] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.129] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.132] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.132] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.132] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.132] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.132] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.132] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.135] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.135] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.135] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.147] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.198] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.200] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.200] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.200] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.218] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 15.3579
+[2021-08-23 09:16:41.219] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 11 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.418734 obj_label: person
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887652 obj_label: car
+ obj_rect: [43 x 44 from (619, 271)] obj_conf: 0.775087 obj_label: person
+ obj_rect: [42 x 44 from (1742, 293)] obj_conf: 0.557576 obj_label: car
+ obj_rect: [44 x 54 from (619, 302)] obj_conf: 0.795844 obj_label: motorcycle
+ obj_rect: [46 x 31 from (665, 174)] obj_conf: 0.414636 obj_label: car
+ obj_rect: [232 x 153 from (1111, 205)] obj_conf: 0.932596 obj_label: public_bus
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.922957 obj_label: car
+ obj_rect: [39 x 77 from (494, 254)] obj_conf: 0.772812 obj_label: person
+ obj_rect: [192 x 90 from (1508, 345)] obj_conf: 0.885364 obj_label: car
+ obj_rect: [56 x 60 from (488, 289)] obj_conf: 0.871349 obj_label: motorcycle
+
+[2021-08-23 09:16:41.219] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.236] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.0976
+[2021-08-23 09:16:41.236] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 11 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.418734 obj_label: person
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887652 obj_label: car
+ obj_rect: [43 x 44 from (619, 271)] obj_conf: 0.775087 obj_label: person
+ obj_rect: [42 x 44 from (1742, 293)] obj_conf: 0.557576 obj_label: car
+ obj_rect: [44 x 54 from (619, 302)] obj_conf: 0.795844 obj_label: motorcycle
+ obj_rect: [46 x 31 from (665, 174)] obj_conf: 0.414636 obj_label: car
+ obj_rect: [232 x 153 from (1111, 205)] obj_conf: 0.932596 obj_label: public_bus
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.922957 obj_label: car
+ obj_rect: [39 x 77 from (494, 254)] obj_conf: 0.772812 obj_label: person
+ obj_rect: [192 x 90 from (1508, 345)] obj_conf: 0.885364 obj_label: car
+ obj_rect: [56 x 60 from (488, 289)] obj_conf: 0.871349 obj_label: motorcycle
+
+[2021-08-23 09:16:41.236] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.245] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.247] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.248] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.248] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.249] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.253] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.253] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.253] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.254] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 OffStoreOperation predict use 15.957
+[2021-08-23 09:16:41.254] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:41.271] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 RoadOccupatedInOperation predict use 14.6346
+[2021-08-23 09:16:41.271] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 0 details: 
+[2021-08-23 09:16:41.285] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.287] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.288] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.288] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.306] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 15.5973
+[2021-08-23 09:16:41.306] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.435319 obj_label: person
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887644 obj_label: car
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.553957 obj_label: car
+ obj_rect: [43 x 43 from (619, 271)] obj_conf: 0.863582 obj_label: person
+ obj_rect: [43 x 66 from (619, 304)] obj_conf: 0.888561 obj_label: motorcycle
+ obj_rect: [238 x 162 from (1112, 204)] obj_conf: 0.930822 obj_label: public_bus
+ obj_rect: [91 x 65 from (888, 207)] obj_conf: 0.921675 obj_label: car
+ obj_rect: [41 x 82 from (493, 254)] obj_conf: 0.767289 obj_label: person
+ obj_rect: [55 x 61 from (489, 288)] obj_conf: 0.837032 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.926723 obj_label: car
+
+[2021-08-23 09:16:41.309] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:3-----
+[2021-08-23 09:16:41.326] [multi_sink] [info] [VehicleLicenseRecognition]: Detect plate rect: [48 x 112 from (876, 186)]
+[2021-08-23 09:16:41.329] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.332] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.332] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.332] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.364] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.366] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.367] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.367] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.367] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.369] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.369] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.370] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.413] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.416] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.416] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.416] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.447] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.450] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.451] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.451] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.481] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.484] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.484] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.484] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.515] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.518] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.518] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.519] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.564] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.567] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.567] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.567] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.598] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.600] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.601] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.601] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.601] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.603] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.603] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.603] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.646] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.649] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.649] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.650] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.682] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.685] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.685] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.685] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.730] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.733] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.733] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.733] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.764] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.766] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.767] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.768] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.768] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.770] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.770] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.770] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.821] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.824] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.824] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.824] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.867] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.870] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.871] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.871] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.899] [multi_sink] [info] [ImageVehicleLicenseRecognition]: plate: D
+[2021-08-23 09:16:41.921] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.7757
+[2021-08-23 09:16:41.921] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.435319 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.569333 obj_label: car
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887559 obj_label: car
+ obj_rect: [43 x 43 from (619, 271)] obj_conf: 0.864034 obj_label: person
+ obj_rect: [237 x 162 from (1112, 204)] obj_conf: 0.931589 obj_label: public_bus
+ obj_rect: [42 x 66 from (619, 305)] obj_conf: 0.889468 obj_label: motorcycle
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.921928 obj_label: car
+ obj_rect: [41 x 82 from (493, 254)] obj_conf: 0.758858 obj_label: person
+ obj_rect: [55 x 61 from (489, 288)] obj_conf: 0.836125 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.928557 obj_label: car
+
+[2021-08-23 09:16:41.922] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.922] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.924] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.928] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.928] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.928] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.932] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.932] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.932] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:41.940] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 15.0268
+[2021-08-23 09:16:41.941] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.435319 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.569333 obj_label: car
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887559 obj_label: car
+ obj_rect: [43 x 43 from (619, 271)] obj_conf: 0.864034 obj_label: person
+ obj_rect: [237 x 162 from (1112, 204)] obj_conf: 0.931589 obj_label: public_bus
+ obj_rect: [42 x 66 from (619, 305)] obj_conf: 0.889468 obj_label: motorcycle
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.921928 obj_label: car
+ obj_rect: [41 x 82 from (493, 254)] obj_conf: 0.758858 obj_label: person
+ obj_rect: [55 x 61 from (489, 288)] obj_conf: 0.836125 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.928557 obj_label: car
+
+[2021-08-23 09:16:41.941] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:41.956] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.6667
+[2021-08-23 09:16:41.956] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.435319 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.569333 obj_label: car
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887559 obj_label: car
+ obj_rect: [43 x 43 from (619, 271)] obj_conf: 0.864034 obj_label: person
+ obj_rect: [237 x 162 from (1112, 204)] obj_conf: 0.931589 obj_label: public_bus
+ obj_rect: [42 x 66 from (619, 305)] obj_conf: 0.889468 obj_label: motorcycle
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.921928 obj_label: car
+ obj_rect: [41 x 82 from (493, 254)] obj_conf: 0.758858 obj_label: person
+ obj_rect: [55 x 61 from (489, 288)] obj_conf: 0.836125 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.928557 obj_label: car
+
+[2021-08-23 09:16:41.957] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:3-----
+[2021-08-23 09:16:41.960] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage VehicleLicenseRecon post to http://10.10.1.88:8089/oceanus/api/v1/receive
+[2021-08-23 09:16:41.974] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:41.977] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:41.977] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:41.977] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.017] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.020] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.020] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.020] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.037] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 14.5281
+[2021-08-23 09:16:42.037] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.436502 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.570298 obj_label: car
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887566 obj_label: car
+ obj_rect: [43 x 43 from (619, 271)] obj_conf: 0.86495 obj_label: person
+ obj_rect: [43 x 66 from (619, 304)] obj_conf: 0.889078 obj_label: motorcycle
+ obj_rect: [237 x 162 from (1112, 204)] obj_conf: 0.931087 obj_label: public_bus
+ obj_rect: [91 x 65 from (888, 207)] obj_conf: 0.921928 obj_label: car
+ obj_rect: [41 x 82 from (493, 254)] obj_conf: 0.76096 obj_label: person
+ obj_rect: [55 x 61 from (489, 288)] obj_conf: 0.836449 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.928557 obj_label: car
+
+[2021-08-23 09:16:42.037] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:42.049] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.053] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage VehicleLicenseRecon post to http://10.10.1.88:8089/oceanus/api/v1/receive response {"code": 200, "message": "OK"}
+[2021-08-23 09:16:42.054] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.054] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 14.4028
+[2021-08-23 09:16:42.054] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.054] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.054] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 23 from (464, 159)] obj_conf: 0.436502 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.570298 obj_label: car
+ obj_rect: [62 x 38 from (827, 200)] obj_conf: 0.887566 obj_label: car
+ obj_rect: [43 x 43 from (619, 271)] obj_conf: 0.86495 obj_label: person
+ obj_rect: [43 x 66 from (619, 304)] obj_conf: 0.889078 obj_label: motorcycle
+ obj_rect: [237 x 162 from (1112, 204)] obj_conf: 0.931087 obj_label: public_bus
+ obj_rect: [91 x 65 from (888, 207)] obj_conf: 0.921928 obj_label: car
+ obj_rect: [41 x 82 from (493, 254)] obj_conf: 0.76096 obj_label: person
+ obj_rect: [55 x 61 from (489, 288)] obj_conf: 0.836449 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.928557 obj_label: car
+
+[2021-08-23 09:16:42.054] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:42.066] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.068] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.068] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.068] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.113] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.116] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.116] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.116] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.116] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.119] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.119] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.119] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.171] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.174] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.174] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.174] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.195] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 18.114
+[2021-08-23 09:16:42.195] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 24 from (464, 159)] obj_conf: 0.462556 obj_label: person
+ obj_rect: [43 x 44 from (619, 271)] obj_conf: 0.866836 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.570286 obj_label: car
+ obj_rect: [62 x 39 from (827, 200)] obj_conf: 0.887952 obj_label: car
+ obj_rect: [43 x 66 from (619, 305)] obj_conf: 0.890926 obj_label: motorcycle
+ obj_rect: [237 x 163 from (1112, 204)] obj_conf: 0.931142 obj_label: public_bus
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.921834 obj_label: car
+ obj_rect: [41 x 81 from (493, 254)] obj_conf: 0.752339 obj_label: person
+ obj_rect: [55 x 62 from (489, 287)] obj_conf: 0.837058 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.92906 obj_label: car
+
+[2021-08-23 09:16:42.195] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:42.213] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.214] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 17.0643
+[2021-08-23 09:16:42.214] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 24 from (464, 159)] obj_conf: 0.462556 obj_label: person
+ obj_rect: [43 x 44 from (619, 271)] obj_conf: 0.866836 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.570286 obj_label: car
+ obj_rect: [62 x 39 from (827, 200)] obj_conf: 0.887952 obj_label: car
+ obj_rect: [43 x 66 from (619, 305)] obj_conf: 0.890926 obj_label: motorcycle
+ obj_rect: [237 x 163 from (1112, 204)] obj_conf: 0.931142 obj_label: public_bus
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.921834 obj_label: car
+ obj_rect: [41 x 81 from (493, 254)] obj_conf: 0.752339 obj_label: person
+ obj_rect: [55 x 62 from (489, 287)] obj_conf: 0.837058 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.92906 obj_label: car
+
+[2021-08-23 09:16:42.214] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:0-----
+[2021-08-23 09:16:42.216] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.216] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.217] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.217] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.219] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.219] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.219] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.234] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 17.8287
+[2021-08-23 09:16:42.235] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [10 x 24 from (464, 159)] obj_conf: 0.462556 obj_label: person
+ obj_rect: [43 x 44 from (619, 271)] obj_conf: 0.866836 obj_label: person
+ obj_rect: [43 x 45 from (1741, 292)] obj_conf: 0.570286 obj_label: car
+ obj_rect: [62 x 39 from (827, 200)] obj_conf: 0.887952 obj_label: car
+ obj_rect: [43 x 66 from (619, 305)] obj_conf: 0.890926 obj_label: motorcycle
+ obj_rect: [237 x 163 from (1112, 204)] obj_conf: 0.931142 obj_label: public_bus
+ obj_rect: [90 x 65 from (888, 207)] obj_conf: 0.921834 obj_label: car
+ obj_rect: [41 x 81 from (493, 254)] obj_conf: 0.752339 obj_label: person
+ obj_rect: [55 x 62 from (489, 287)] obj_conf: 0.837058 obj_label: motorcycle
+ obj_rect: [198 x 100 from (1502, 337)] obj_conf: 0.92906 obj_label: car
+
+[2021-08-23 09:16:42.235] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:3-----
+[2021-08-23 09:16:42.265] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.267] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 OffStoreOperation predict use 17.9227
+[2021-08-23 09:16:42.267] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 1 details:  obj_rect: [198 x 90 from (1243, 383)] obj_conf: 0.903961 obj_label: litter
+
+[2021-08-23 09:16:42.273] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.273] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.273] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.287] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 RoadOccupatedInOperation predict use 18.2415
+[2021-08-23 09:16:42.288] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 1 details:  obj_rect: [198 x 90 from (1243, 383)] obj_conf: 0.903961 obj_label: litter
+
+[2021-08-23 09:16:42.306] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 16.2428
+[2021-08-23 09:16:42.306] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 12 details:  obj_rect: [12 x 32 from (367, 96)] obj_conf: 0.556936 obj_label: person
+ obj_rect: [55 x 37 from (599, 117)] obj_conf: 0.731033 obj_label: car
+ obj_rect: [72 x 45 from (791, 147)] obj_conf: 0.893224 obj_label: car
+ obj_rect: [63 x 71 from (396, 251)] obj_conf: 0.86293 obj_label: motorcycle
+ obj_rect: [51 x 51 from (1862, 258)] obj_conf: 0.672624 obj_label: car
+ obj_rect: [53 x 100 from (398, 210)] obj_conf: 0.832545 obj_label: person
+ obj_rect: [50 x 77 from (547, 270)] obj_conf: 0.889731 obj_label: motorcycle
+ obj_rect: [50 x 50 from (547, 231)] obj_conf: 0.876788 obj_label: person
+ obj_rect: [106 x 77 from (862, 156)] obj_conf: 0.930252 obj_label: car
+ obj_rect: [303 x 192 from (1105, 152)] obj_conf: 0.900333 obj_label: public_bus
+ obj_rect: [143 x 102 from (1731, 267)] obj_conf: 0.662652 obj_label: car
+ obj_rect: [232 x 118 from (1581, 306)] obj_conf: 0.927521 obj_label: car
+
+[2021-08-23 09:16:42.307] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.318] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.319] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.321] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.321] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.321] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.324] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.324] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.324] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.327] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 17.8419
+[2021-08-23 09:16:42.327] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 12 details:  obj_rect: [12 x 32 from (367, 96)] obj_conf: 0.556936 obj_label: person
+ obj_rect: [55 x 37 from (599, 117)] obj_conf: 0.731033 obj_label: car
+ obj_rect: [72 x 45 from (791, 147)] obj_conf: 0.893224 obj_label: car
+ obj_rect: [63 x 71 from (396, 251)] obj_conf: 0.86293 obj_label: motorcycle
+ obj_rect: [51 x 51 from (1862, 258)] obj_conf: 0.672624 obj_label: car
+ obj_rect: [53 x 100 from (398, 210)] obj_conf: 0.832545 obj_label: person
+ obj_rect: [50 x 77 from (547, 270)] obj_conf: 0.889731 obj_label: motorcycle
+ obj_rect: [50 x 50 from (547, 231)] obj_conf: 0.876788 obj_label: person
+ obj_rect: [106 x 77 from (862, 156)] obj_conf: 0.930252 obj_label: car
+ obj_rect: [303 x 192 from (1105, 152)] obj_conf: 0.900333 obj_label: public_bus
+ obj_rect: [143 x 102 from (1731, 267)] obj_conf: 0.662652 obj_label: car
+ obj_rect: [232 x 118 from (1581, 306)] obj_conf: 0.927521 obj_label: car
+
+[2021-08-23 09:16:42.328] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.364] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.367] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.367] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.367] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.374] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage HumanBreakIn post to http://10.10.1.88:8089/oceanus/api/v1/receive
+[2021-08-23 09:16:42.400] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.402] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.403] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.403] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.403] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.407] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.407] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.408] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.419] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.4119
+[2021-08-23 09:16:42.419] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 32 from (366, 96)] obj_conf: 0.550403 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.717478 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898502 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.831804 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.64908 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.89326 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929164 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849304 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872128 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872674 obj_label: public_bus
+
+[2021-08-23 09:16:42.419] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.434] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.8447
+[2021-08-23 09:16:42.434] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 32 from (366, 96)] obj_conf: 0.550403 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.717478 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898502 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.831804 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.64908 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.89326 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929164 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849304 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872128 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872674 obj_label: public_bus
+
+[2021-08-23 09:16:42.435] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.448] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.450] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.4942
+[2021-08-23 09:16:42.451] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 32 from (366, 96)] obj_conf: 0.550403 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.717478 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898502 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.831804 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.64908 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.89326 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929164 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849304 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872128 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872674 obj_label: public_bus
+
+[2021-08-23 09:16:42.451] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.451] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.451] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.451] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.465] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage HumanBreakIn post to http://10.10.1.88:8089/oceanus/api/v1/receive response {"code": 200, "message": "OK"}
+[2021-08-23 09:16:42.496] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.499] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.499] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.499] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.530] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.533] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.533] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.533] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.536] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.539] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.539] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.539] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.549] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.8868
+[2021-08-23 09:16:42.549] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.547275 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.71741 obj_label: car
+ obj_rect: [71 x 44 from (792, 148)] obj_conf: 0.898517 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.640133 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.832946 obj_label: motorcycle
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929427 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.848795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.873417 obj_label: person
+ obj_rect: [296 x 191 from (1105, 152)] obj_conf: 0.87893 obj_label: public_bus
+
+[2021-08-23 09:16:42.550] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.564] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.4096
+[2021-08-23 09:16:42.564] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.547275 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.71741 obj_label: car
+ obj_rect: [71 x 44 from (792, 148)] obj_conf: 0.898517 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.640133 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.832946 obj_label: motorcycle
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929427 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.848795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.873417 obj_label: person
+ obj_rect: [296 x 191 from (1105, 152)] obj_conf: 0.87893 obj_label: public_bus
+
+[2021-08-23 09:16:42.564] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.580] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.583] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.583] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.583] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.613] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.616] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.616] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.616] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.647] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.650] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.650] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.650] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.666] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.6764
+[2021-08-23 09:16:42.666] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 32 from (366, 96)] obj_conf: 0.548193 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.718298 obj_label: car
+ obj_rect: [71 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639205 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833458 obj_label: motorcycle
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893602 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929678 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.84979 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872122 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872114 obj_label: public_bus
+
+[2021-08-23 09:16:42.667] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.682] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.614
+[2021-08-23 09:16:42.682] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 32 from (366, 96)] obj_conf: 0.548193 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.718298 obj_label: car
+ obj_rect: [71 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639205 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833458 obj_label: motorcycle
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893602 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929678 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.84979 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872122 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872114 obj_label: public_bus
+
+[2021-08-23 09:16:42.682] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.698] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 14.1497
+[2021-08-23 09:16:42.698] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 32 from (366, 96)] obj_conf: 0.548193 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.718298 obj_label: car
+ obj_rect: [71 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639205 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833458 obj_label: motorcycle
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893602 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929678 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.84979 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872122 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872114 obj_label: public_bus
+
+[2021-08-23 09:16:42.699] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.702] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.703] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.703] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.703] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.748] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.750] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.750] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.750] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.751] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.754] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.754] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.754] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.766] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.4795
+[2021-08-23 09:16:42.766] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.549109 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.718889 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898502 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833749 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.635603 obj_label: car
+ obj_rect: [49 x 77 from (547, 271)] obj_conf: 0.892851 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929927 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.8488 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872122 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872911 obj_label: public_bus
+
+[2021-08-23 09:16:42.766] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.782] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.9010
+[2021-08-23 09:16:42.782] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.549109 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.718889 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898502 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833749 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.635603 obj_label: car
+ obj_rect: [49 x 77 from (547, 271)] obj_conf: 0.892851 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929927 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.8488 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.872122 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.872911 obj_label: public_bus
+
+[2021-08-23 09:16:42.783] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.802] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.804] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.804] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.804] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.814] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage FollowIntoHousePerson post to http://10.10.1.88:8089/oceanus/api/v1/receive
+[2021-08-23 09:16:42.851] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.853] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.853] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.853] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.853] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.857] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.858] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.858] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.869] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.4739
+[2021-08-23 09:16:42.869] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.548281 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.716702 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.897802 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.641916 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833386 obj_label: motorcycle
+ obj_rect: [50 x 78 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929666 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [295 x 192 from (1105, 152)] obj_conf: 0.873704 obj_label: public_bus
+
+[2021-08-23 09:16:42.870] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.885] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.3843
+[2021-08-23 09:16:42.885] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.548281 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.716702 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.897802 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.641916 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833386 obj_label: motorcycle
+ obj_rect: [50 x 78 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929666 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [295 x 192 from (1105, 152)] obj_conf: 0.873704 obj_label: public_bus
+
+[2021-08-23 09:16:42.885] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.900] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.035
+[2021-08-23 09:16:42.900] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.548281 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.716702 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.897802 obj_label: car
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.641916 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833386 obj_label: motorcycle
+ obj_rect: [50 x 78 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929666 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [295 x 192 from (1105, 152)] obj_conf: 0.873704 obj_label: public_bus
+
+[2021-08-23 09:16:42.901] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.902] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.906] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.906] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.906] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.917] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage FollowIntoHousePerson post to http://10.10.1.88:8089/oceanus/api/v1/receive response {"code": 200, "message": "OK"}
+[2021-08-23 09:16:42.947] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.949] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.949] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.950] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.952] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:42.955] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:42.955] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:42.955] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:42.970] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 12.7339
+[2021-08-23 09:16:42.970] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.549579 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.715856 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833329 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639222 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.892851 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929927 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [295 x 192 from (1105, 152)] obj_conf: 0.874179 obj_label: public_bus
+
+[2021-08-23 09:16:42.970] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.985] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.4014
+[2021-08-23 09:16:42.985] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 31 from (366, 96)] obj_conf: 0.549579 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.715856 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.833329 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639222 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.892851 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929927 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.849795 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [295 x 192 from (1105, 152)] obj_conf: 0.874179 obj_label: public_bus
+
+[2021-08-23 09:16:42.985] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:42.999] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.002] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.002] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.002] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.053] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.055] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.056] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.056] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.056] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.060] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.060] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.060] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.071] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 12.9184
+[2021-08-23 09:16:43.072] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 32 from (366, 96)] obj_conf: 0.550114 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.716634 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.834254 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639222 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929415 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.850291 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.873704 obj_label: public_bus
+
+[2021-08-23 09:16:43.072] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:43.087] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.6326
+[2021-08-23 09:16:43.087] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 32 from (366, 96)] obj_conf: 0.550114 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.716634 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.834254 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639222 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929415 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.850291 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.873704 obj_label: public_bus
+
+[2021-08-23 09:16:43.087] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:43.100] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.103] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.2124
+[2021-08-23 09:16:43.103] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 32 from (366, 96)] obj_conf: 0.550114 obj_label: person
+ obj_rect: [55 x 36 from (599, 118)] obj_conf: 0.716634 obj_label: car
+ obj_rect: [70 x 44 from (792, 148)] obj_conf: 0.898156 obj_label: car
+ obj_rect: [63 x 72 from (396, 250)] obj_conf: 0.834254 obj_label: motorcycle
+ obj_rect: [52 x 51 from (1862, 258)] obj_conf: 0.639222 obj_label: car
+ obj_rect: [50 x 77 from (547, 271)] obj_conf: 0.893194 obj_label: motorcycle
+ obj_rect: [107 x 76 from (862, 157)] obj_conf: 0.929415 obj_label: car
+ obj_rect: [55 x 103 from (397, 210)] obj_conf: 0.850291 obj_label: person
+ obj_rect: [50 x 51 from (547, 231)] obj_conf: 0.870811 obj_label: person
+ obj_rect: [294 x 192 from (1105, 152)] obj_conf: 0.873704 obj_label: public_bus
+
+[2021-08-23 09:16:43.103] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:43.104] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.104] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.104] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.147] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.150] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.150] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.150] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.152] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.154] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.155] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.155] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.199] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.201] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.201] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.201] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.217] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 12.9117
+[2021-08-23 09:16:43.217] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 33 from (367, 97)] obj_conf: 0.486816 obj_label: person
+ obj_rect: [51 x 33 from (610, 120)] obj_conf: 0.618383 obj_label: car
+ obj_rect: [73 x 44 from (803, 151)] obj_conf: 0.901576 obj_label: car
+ obj_rect: [51 x 82 from (566, 279)] obj_conf: 0.88427 obj_label: motorcycle
+ obj_rect: [82 x 79 from (909, 161)] obj_conf: 0.898849 obj_label: car
+ obj_rect: [52 x 103 from (402, 211)] obj_conf: 0.857735 obj_label: person
+ obj_rect: [53 x 93 from (565, 239)] obj_conf: 0.778502 obj_label: person
+ obj_rect: [66 x 71 from (400, 251)] obj_conf: 0.836048 obj_label: motorcycle
+ obj_rect: [319 x 197 from (1140, 155)] obj_conf: 0.893019 obj_label: public_bus
+ obj_rect: [261 x 123 from (1639, 321)] obj_conf: 0.932992 obj_label: car
+
+[2021-08-23 09:16:43.217] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:43.232] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.392
+[2021-08-23 09:16:43.232] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [12 x 33 from (367, 97)] obj_conf: 0.486816 obj_label: person
+ obj_rect: [51 x 33 from (610, 120)] obj_conf: 0.618383 obj_label: car
+ obj_rect: [73 x 44 from (803, 151)] obj_conf: 0.901576 obj_label: car
+ obj_rect: [51 x 82 from (566, 279)] obj_conf: 0.88427 obj_label: motorcycle
+ obj_rect: [82 x 79 from (909, 161)] obj_conf: 0.898849 obj_label: car
+ obj_rect: [52 x 103 from (402, 211)] obj_conf: 0.857735 obj_label: person
+ obj_rect: [53 x 93 from (565, 239)] obj_conf: 0.778502 obj_label: person
+ obj_rect: [66 x 71 from (400, 251)] obj_conf: 0.836048 obj_label: motorcycle
+ obj_rect: [319 x 197 from (1140, 155)] obj_conf: 0.893019 obj_label: public_bus
+ obj_rect: [261 x 123 from (1639, 321)] obj_conf: 0.932992 obj_label: car
+
+[2021-08-23 09:16:43.233] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:2-----
+[2021-08-23 09:16:43.247] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.249] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.250] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.251] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.251] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.255] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.255] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.255] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.267] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 OffStoreOperation predict use 14.2043
+[2021-08-23 09:16:43.267] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 1 details:  obj_rect: [192 x 90 from (1243, 382)] obj_conf: 0.888889 obj_label: litter
+
+[2021-08-23 09:16:43.283] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage HumanBreakIn post to http://10.10.1.88:8089/oceanus/api/v1/receive
+[2021-08-23 09:16:43.283] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 RoadOccupatedInOperation predict use 13.4632
+[2021-08-23 09:16:43.283] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 1 details:  obj_rect: [192 x 90 from (1243, 382)] obj_conf: 0.888889 obj_label: litter
+
+[2021-08-23 09:16:43.304] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.306] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.307] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.307] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.321] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 12.5171
+[2021-08-23 09:16:43.321] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 12 details:  obj_rect: [12 x 34 from (367, 96)] obj_conf: 0.526261 obj_label: person
+ obj_rect: [39 x 33 from (623, 121)] obj_conf: 0.707629 obj_label: car
+ obj_rect: [74 x 44 from (808, 152)] obj_conf: 0.911502 obj_label: car
+ obj_rect: [35 x 32 from (681, 125)] obj_conf: 0.582579 obj_label: car
+ obj_rect: [53 x 102 from (404, 211)] obj_conf: 0.856876 obj_label: person
+ obj_rect: [51 x 84 from (576, 285)] obj_conf: 0.891602 obj_label: motorcycle
+ obj_rect: [87 x 80 from (918, 162)] obj_conf: 0.915675 obj_label: car
+ obj_rect: [49 x 56 from (577, 244)] obj_conf: 0.831086 obj_label: person
+ obj_rect: [328 x 213 from (1144, 156)] obj_conf: 0.921352 obj_label: public_bus
+ obj_rect: [67 x 71 from (402, 251)] obj_conf: 0.833672 obj_label: motorcycle
+ obj_rect: [72 x 105 from (1844, 354)] obj_conf: 0.691819 obj_label: car
+ obj_rect: [239 x 119 from (1665, 323)] obj_conf: 0.773805 obj_label: car
+
+[2021-08-23 09:16:43.322] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.336] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.298
+[2021-08-23 09:16:43.336] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 12 details:  obj_rect: [12 x 34 from (367, 96)] obj_conf: 0.526261 obj_label: person
+ obj_rect: [39 x 33 from (623, 121)] obj_conf: 0.707629 obj_label: car
+ obj_rect: [74 x 44 from (808, 152)] obj_conf: 0.911502 obj_label: car
+ obj_rect: [35 x 32 from (681, 125)] obj_conf: 0.582579 obj_label: car
+ obj_rect: [53 x 102 from (404, 211)] obj_conf: 0.856876 obj_label: person
+ obj_rect: [51 x 84 from (576, 285)] obj_conf: 0.891602 obj_label: motorcycle
+ obj_rect: [87 x 80 from (918, 162)] obj_conf: 0.915675 obj_label: car
+ obj_rect: [49 x 56 from (577, 244)] obj_conf: 0.831086 obj_label: person
+ obj_rect: [328 x 213 from (1144, 156)] obj_conf: 0.921352 obj_label: public_bus
+ obj_rect: [67 x 71 from (402, 251)] obj_conf: 0.833672 obj_label: motorcycle
+ obj_rect: [72 x 105 from (1844, 354)] obj_conf: 0.691819 obj_label: car
+ obj_rect: [239 x 119 from (1665, 323)] obj_conf: 0.773805 obj_label: car
+
+[2021-08-23 09:16:43.337] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.348] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.351] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.351] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.351] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.352] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.352] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 13.5271
+[2021-08-23 09:16:43.352] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 12 details:  obj_rect: [12 x 34 from (367, 96)] obj_conf: 0.526261 obj_label: person
+ obj_rect: [39 x 33 from (623, 121)] obj_conf: 0.707629 obj_label: car
+ obj_rect: [74 x 44 from (808, 152)] obj_conf: 0.911502 obj_label: car
+ obj_rect: [35 x 32 from (681, 125)] obj_conf: 0.582579 obj_label: car
+ obj_rect: [53 x 102 from (404, 211)] obj_conf: 0.856876 obj_label: person
+ obj_rect: [51 x 84 from (576, 285)] obj_conf: 0.891602 obj_label: motorcycle
+ obj_rect: [87 x 80 from (918, 162)] obj_conf: 0.915675 obj_label: car
+ obj_rect: [49 x 56 from (577, 244)] obj_conf: 0.831086 obj_label: person
+ obj_rect: [328 x 213 from (1144, 156)] obj_conf: 0.921352 obj_label: public_bus
+ obj_rect: [67 x 71 from (402, 251)] obj_conf: 0.833672 obj_label: motorcycle
+ obj_rect: [72 x 105 from (1844, 354)] obj_conf: 0.691819 obj_label: car
+ obj_rect: [239 x 119 from (1665, 323)] obj_conf: 0.773805 obj_label: car
+
+[2021-08-23 09:16:43.353] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:4-----
+[2021-08-23 09:16:43.355] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.355] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.355] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.356] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage HumanBreakIn post to http://10.10.1.88:8089/oceanus/api/v1/receive response {"code": 200, "message": "OK"}
+[2021-08-23 09:16:43.399] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.402] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.403] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.403] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.446] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.449] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.449] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.450] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.450] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.454] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.454] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.455] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.466] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.4518
+[2021-08-23 09:16:43.466] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 11 details:  obj_rect: [13 x 35 from (366, 95)] obj_conf: 0.529726 obj_label: person
+ obj_rect: [55 x 88 from (596, 295)] obj_conf: 0.896932 obj_label: motorcycle
+ obj_rect: [35 x 35 from (628, 122)] obj_conf: 0.597409 obj_label: car
+ obj_rect: [43 x 33 from (686, 125)] obj_conf: 0.769091 obj_label: car
+ obj_rect: [68 x 45 from (819, 154)] obj_conf: 0.909733 obj_label: car
+ obj_rect: [73 x 74 from (406, 250)] obj_conf: 0.883621 obj_label: motorcycle
+ obj_rect: [48 x 90 from (413, 211)] obj_conf: 0.850307 obj_label: person
+ obj_rect: [55 x 58 from (596, 252)] obj_conf: 0.791133 obj_label: person
+ obj_rect: [357 x 221 from (1167, 164)] obj_conf: 0.907524 obj_label: public_bus
+ obj_rect: [106 x 84 from (924, 163)] obj_conf: 0.916827 obj_label: car
+ obj_rect: [187 x 162 from (1729, 311)] obj_conf: 0.887701 obj_label: car
+
+[2021-08-23 09:16:43.466] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.481] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.7653
+[2021-08-23 09:16:43.481] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 11 details:  obj_rect: [13 x 35 from (366, 95)] obj_conf: 0.529726 obj_label: person
+ obj_rect: [55 x 88 from (596, 295)] obj_conf: 0.896932 obj_label: motorcycle
+ obj_rect: [35 x 35 from (628, 122)] obj_conf: 0.597409 obj_label: car
+ obj_rect: [43 x 33 from (686, 125)] obj_conf: 0.769091 obj_label: car
+ obj_rect: [68 x 45 from (819, 154)] obj_conf: 0.909733 obj_label: car
+ obj_rect: [73 x 74 from (406, 250)] obj_conf: 0.883621 obj_label: motorcycle
+ obj_rect: [48 x 90 from (413, 211)] obj_conf: 0.850307 obj_label: person
+ obj_rect: [55 x 58 from (596, 252)] obj_conf: 0.791133 obj_label: person
+ obj_rect: [357 x 221 from (1167, 164)] obj_conf: 0.907524 obj_label: public_bus
+ obj_rect: [106 x 84 from (924, 163)] obj_conf: 0.916827 obj_label: car
+ obj_rect: [187 x 162 from (1729, 311)] obj_conf: 0.887701 obj_label: car
+
+[2021-08-23 09:16:43.482] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.504] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.507] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.507] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.507] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.532] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage HumanBreakIn post to http://10.10.1.88:8089/oceanus/api/v1/receive
+[2021-08-23 09:16:43.550] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.552] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.553] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.553] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.553] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.557] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.557] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.557] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.569] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 FollowIntoHousePerson predict use 13.6987
+[2021-08-23 09:16:43.569] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 34 from (365, 96)] obj_conf: 0.555916 obj_label: person
+ obj_rect: [48 x 32 from (560, 112)] obj_conf: 0.42444 obj_label: car
+ obj_rect: [35 x 36 from (629, 122)] obj_conf: 0.689099 obj_label: car
+ obj_rect: [47 x 35 from (688, 125)] obj_conf: 0.799816 obj_label: car
+ obj_rect: [65 x 46 from (826, 153)] obj_conf: 0.884905 obj_label: car
+ obj_rect: [74 x 74 from (409, 250)] obj_conf: 0.883211 obj_label: motorcycle
+ obj_rect: [56 x 84 from (607, 258)] obj_conf: 0.717039 obj_label: person
+ obj_rect: [114 x 89 from (927, 161)] obj_conf: 0.80615 obj_label: car
+ obj_rect: [46 x 97 from (415, 211)] obj_conf: 0.847891 obj_label: person
+ obj_rect: [56 x 89 from (608, 302)] obj_conf: 0.889162 obj_label: motorcycle
+
+[2021-08-23 09:16:43.570] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.584] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 HumanBreakIn predict use 12.4484
+[2021-08-23 09:16:43.584] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 34 from (365, 96)] obj_conf: 0.555916 obj_label: person
+ obj_rect: [48 x 32 from (560, 112)] obj_conf: 0.42444 obj_label: car
+ obj_rect: [35 x 36 from (629, 122)] obj_conf: 0.689099 obj_label: car
+ obj_rect: [47 x 35 from (688, 125)] obj_conf: 0.799816 obj_label: car
+ obj_rect: [65 x 46 from (826, 153)] obj_conf: 0.884905 obj_label: car
+ obj_rect: [74 x 74 from (409, 250)] obj_conf: 0.883211 obj_label: motorcycle
+ obj_rect: [56 x 84 from (607, 258)] obj_conf: 0.717039 obj_label: person
+ obj_rect: [114 x 89 from (927, 161)] obj_conf: 0.80615 obj_label: car
+ obj_rect: [46 x 97 from (415, 211)] obj_conf: 0.847891 obj_label: person
+ obj_rect: [56 x 89 from (608, 302)] obj_conf: 0.889162 obj_label: motorcycle
+
+[2021-08-23 09:16:43.585] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.599] [multi_sink] [trace] [ObjectDetectCommand]: stress_1 VehicleLicenseRecon predict use 12.2961
+[2021-08-23 09:16:43.599] [multi_sink] [trace] [ObjectDetectCommand]: detect objects count: 10 details:  obj_rect: [13 x 34 from (365, 96)] obj_conf: 0.555916 obj_label: person
+ obj_rect: [48 x 32 from (560, 112)] obj_conf: 0.42444 obj_label: car
+ obj_rect: [35 x 36 from (629, 122)] obj_conf: 0.689099 obj_label: car
+ obj_rect: [47 x 35 from (688, 125)] obj_conf: 0.799816 obj_label: car
+ obj_rect: [65 x 46 from (826, 153)] obj_conf: 0.884905 obj_label: car
+ obj_rect: [74 x 74 from (409, 250)] obj_conf: 0.883211 obj_label: motorcycle
+ obj_rect: [56 x 84 from (607, 258)] obj_conf: 0.717039 obj_label: person
+ obj_rect: [114 x 89 from (927, 161)] obj_conf: 0.80615 obj_label: car
+ obj_rect: [46 x 97 from (415, 211)] obj_conf: 0.847891 obj_label: person
+ obj_rect: [56 x 89 from (608, 302)] obj_conf: 0.889162 obj_label: motorcycle
+
+[2021-08-23 09:16:43.599] [multi_sink] [trace] [ObjectMoveTrace]: in_area_objects size:1-----
+[2021-08-23 09:16:43.600] [multi_sink] [trace] [VideoDecoder]: -----------VideoDecoder[stress_1]::process-----------------
+[2021-08-23 09:16:43.604] [multi_sink] [debug] [VideoDecoder]: ----------------VideoDecoder[stress_1]::ProcessDevFrame size(1920x1080)
+[2021-08-23 09:16:43.604] [multi_sink] [debug] [VideoDecoder]: -------------VideoDecoder[stress_1]::ProcessDevFrame sync_data.DevDataSyncDev ok
+[2021-08-23 09:16:43.604] [multi_sink] [debug] [VideoDecoder]: ------------VideoDecoder[stress_1]::ProcessDevFrame over!!!!!!!!!!
+[2021-08-23 09:16:43.607] [multi_sink] [info] [MagicMessageNotifier]: stress_1 HandleMessage HumanBreakIn post to http://10.10.1.88:8089/oceanus/api/v1/receive response {"code": 200, "message": "OK"}
