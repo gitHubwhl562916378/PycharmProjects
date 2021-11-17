@@ -9,7 +9,7 @@
 
 so_db_dir=all_db_dir
 so_dest_dir=dest_dir
-so_or_exectuable_path=cpp_test
+so_or_exectuable_path=$1
 
 # 首次正常依赖库文件提取(含软连接)
 copy_all_so_2_db(){
@@ -39,7 +39,6 @@ copy_all_so_2_db(){
             rm $link_file_name
             ln -s $real_file_name $link_file_name #重新建立软链接
         else
-            echo "cp file $line to $so_db_dir"
             cp $line $so_db_dir
         fi
     done
@@ -71,7 +70,6 @@ copy_need_2_dest(){
                 echo "cp link $src_file to $so_dest_dir"
                 cp -d $src_file $so_dest_dir
             else
-                echo "cp file $src_file to $so_dest_dir"
                 cp $src_file $so_dest_dir
             fi
         done
@@ -84,16 +82,22 @@ copy_need_2_dest(){
 }
 
 main(){
-    case $1 in
-            copy_all_so_2_db)
-            copy_all_so_2_db
-            ;;
-            copy_need_2_dest)
-            copy_need_2_dest
-            ;;
-            *)
-            echo -e "\nUSEAGE: $0 [copy_all_so_2_db|copy_need_2_dest]"
+    case $3 in
+        copy_all_so_2_db)
+        copy_all_so_2_db
+        ;;
+        copy_need_2_dest)
+        copy_need_2_dest
+        ;;
+        *)
+
+        val=$2
+        if [ "$val" == "" ]
+        then
+            val="execute_file"
+        fi
+        echo -e "\nUSEAGE: $1 $val [copy_all_so_2_db|copy_need_2_dest]"
     esac
 }
 
-main $1
+main $0 $1 $2
