@@ -75,8 +75,9 @@ def draw2Pid(files):
     data1[:, 2] = datas[1][:, 1]
 
     data2 = datas[0].copy()
-    np.delete(data2, 1, 1)  # 删除第1列
-    data2[:, 2] = datas[1][:, 2]
+    data2 = np.delete(data2, 1, 1)  # 删除第1列
+    newMem = datas[1][:, 2]
+    data2 = np.append(data2, np.reshape(newMem, (len(newMem), -1)), 1)
     draw_figure([data1, data2], [
                 'EHR live cpu compare', 'EHR live mem compare'], ['old', 'new'])
 
