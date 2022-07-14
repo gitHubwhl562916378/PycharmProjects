@@ -32,7 +32,7 @@ def draw_figure(data, titles, labels):
         plt.title(titles[i])
         # plt.xlim(0, x[-1])
         plt.xticks(x)
-        plt.ylim(0.0, 20.0)
+        plt.ylim(0.0, max(max_y1, max_y2))
         plt.xlabel('time/s')
         plt.ylabel('percent/%')
         # 绘制多条线性图
